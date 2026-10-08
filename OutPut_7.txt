@@ -1,0 +1,216 @@
+========================
+   MULTI UTILITY TOOL
+========================
+1. Date & Time
+2. Mathematics
+3. Random Data
+4. UUID
+5. File Operations
+6. Explore Module
+7. Exit
+
+Enter choice: 1
+
+1. Current Date & Time
+2. Date Difference
+3. Stopwatch
+4. Countdown
+Choice: 1
+Date & Time: 2026-10-08 11:03:30.046572
+
+========================
+   MULTI UTILITY TOOL
+========================
+1. Date & Time
+2. Mathematics
+3. Random Data
+4. UUID
+5. File Operations
+6. Explore Module
+7. Exit
+
+Enter choice: 1
+
+1. Current Date & Time
+2. Date Difference
+3. Stopwatch
+4. Countdown
+Choice: 2
+First date (YYYY-MM-DD): 2024-12-25
+Second date (YYYY-MM-DD): 2025-01-04
+
+Difference:
+Years : 0
+Months: 0
+Days  : 10
+
+========================
+   MULTI UTILITY TOOL
+========================
+1. Date & Time
+2. Mathematics
+3. Random Data
+4. UUID
+5. File Operations
+6. Explore Module
+7. Exit
+
+Enter choice: 2
+
+1. Factorial
+2. Compound Interest
+3. Trigonometry
+4. Area
+Choice: 1
+Number: 5
+Factorial: 120
+
+========================
+   MULTI UTILITY TOOL
+========================
+1. Date & Time
+2. Mathematics
+3. Random Data
+4. UUID
+5. File Operations
+6. Explore Module
+7. Exit
+
+Enter choice: 2
+
+1. Factorial
+2. Compound Interest
+3. Trigonometry
+4. Area
+Choice: 2
+Principal: 1000
+Rate: 5
+Time: 2
+Amount: 1102.5
+
+========================
+   MULTI UTILITY TOOL
+========================
+1. Date & Time
+2. Mathematics
+3. Random Data
+4. UUID
+5. File Operations
+6. Explore Module
+7. Exit
+
+Enter choice: 3
+
+1. Number
+2. List
+3. Password
+4. OTP
+Choice: 3
+Length: 8
+Password: 5ZdDDxUP
+
+========================
+   MULTI UTILITY TOOL
+========================
+1. Date & Time
+2. Mathematics
+3. Random Data
+4. UUID
+5. File Operations
+6. Explore Module
+7. Exit
+
+Enter choice: 4
+UUID: e315898c-b5b0-40ee-873d-8d741838ad4b
+
+========================
+   MULTI UTILITY TOOL
+========================
+1. Date & Time
+2. Mathematics
+3. Random Data
+4. UUID
+5. File Operations
+6. Explore Module
+7. Exit
+
+Enter choice: 5
+
+1. Create
+2. Write
+3. Read
+4. Append
+Choice: 1
+File name: example.txt
+File created
+
+========================
+   MULTI UTILITY TOOL
+========================
+1. Date & Time
+2. Mathematics
+3. Random Data
+4. UUID
+5. File Operations
+6. Explore Module
+7. Exit
+
+Enter choice: 5
+
+1. Create
+2. Write
+3. Read
+4. Append
+Choice: 2
+File name: example.txt
+Data: This is s sample file.
+File written
+========================
+   MULTI UTILITY TOOL
+========================
+1. Date & Time
+2. Mathematics
+3. Random Data
+4. UUID
+5. File Operations
+6. Explore Module
+7. Exit
+
+Enter choice: 5
+
+1. Create
+2. Write
+3. Read
+4. Append
+Choice: 3
+File name: example.txt
+This is s sample file.
+
+========================
+   MULTI UTILITY TOOL
+========================
+1. Date & Time
+2. Mathematics
+3. Random Data
+4. UUID
+5. File Operations
+6. Explore Module
+7. Exit
+
+Enter choice: 6
+Module name: math
+['__doc__', '__loader__', '__name__', '__package__', '__spec__', 'acos', 'acosh', 'asin', 'asinh', 'atan', 'atan2', 'atanh', 'cbrt', 'ceil', 'comb', 'copysign', 'cos', 'cosh', 'degrees', 'dist', 'e', 'erf', 'erfc', 'exp', 'exp2', 'expm1', 'fabs', 'factorial', 'floor', 'fma', 'fmod', 'frexp', 'fsum', 'gamma', 'gcd', 'hypot', 'inf', 'isclose', 'isfinite', 'isinf', 'isnan', 'isqrt', 'lcm', 'ldexp', 'lgamma', 'log', 'log10', 'log1p', 'log2', 'modf', 'nan', 'nextafter', 'perm', 'pi', 'pow', 'prod', 'radians', 'remainder', 'sin', 'sinh', 'sqrt', 'sumprod', 'tan', 'tanh', 'tau', 'trunc', 'ulp']
+
+========================
+   MULTI UTILITY TOOL
+========================
+1. Date & Time
+2. Mathematics
+3. Random Data
+4. UUID
+5. File Operations
+6. Explore Module
+7. Exit
+
+Enter choice: 7
+Thank you!
